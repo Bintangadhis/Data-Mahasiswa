@@ -1,0 +1,36 @@
+#include <iostrem>
+#include <string>
+
+using namespace std;
+
+int main(){
+    string name;
+    string alamat;
+    string nim;
+    string jurusan;
+
+    cout<<"Masukan data berikut: "<<end1;
+
+    cout<<"Masukan Nama :";
+    getline(cin,nama);
+
+    cout<<"Masukan Alamat :";
+    getline(cin,alamat);
+
+    cout<<"Masukan Nim :";
+    getline(cin,nim);
+
+    cout<<"Masukan Jurusan :";
+    getline(cin,jurusan);
+
+    cout<<en1;
+
+    cout<<"DATA MAHASISWA"<<end1
+    cout<<"---------------"<<end1
+
+    cout<<"Nama : "<<end1;
+    cout<<"Alamat : "<<end1;
+    cout<<"Nim : "<<end1;
+    cout<<"Jurusan : "<<end1
+    
+}
